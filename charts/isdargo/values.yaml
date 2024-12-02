@@ -1,6 +1,6 @@
 ####################################################
 # installArgoCD enable true will install argo-cd,argo-rollouts,argo-workflows,argo-events,argocd-image-updater
-installArgoCD: true
+installArgoCD: fasle
 
 # install ingress-nginx if not installed in the cluster
 ingressnginx: false
