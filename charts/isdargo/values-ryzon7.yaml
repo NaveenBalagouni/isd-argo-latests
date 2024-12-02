@@ -5,7 +5,7 @@ installArgoCD: false
 ingressnginx: false
 
 # installArgoRollouts enable true will install argo-rollouts
-installArgoRollouts: true
+installArgoRollouts: false
 
 ############################################################################
 #  OEA-AP Install OEA and Argo Services . Change to None if only Argo Services to be installed.
